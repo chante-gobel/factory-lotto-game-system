@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LottoGame", "LottoGame\LottoGame.csproj", "{64961B7A-7C21-45AE-9E18-E94746147A5C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LottoGame.UnitTests", "LottoGame.UnitTests\LottoGame.UnitTests.csproj", "{DA543ABB-08E5-4D37-9E87-618F3A9663FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64961B7A-7C21-45AE-9E18-E94746147A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64961B7A-7C21-45AE-9E18-E94746147A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64961B7A-7C21-45AE-9E18-E94746147A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64961B7A-7C21-45AE-9E18-E94746147A5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA543ABB-08E5-4D37-9E87-618F3A9663FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA543ABB-08E5-4D37-9E87-618F3A9663FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA543ABB-08E5-4D37-9E87-618F3A9663FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA543ABB-08E5-4D37-9E87-618F3A9663FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD02067B-3092-401D-AF1D-B0DEF9CEF9E3}
+	EndGlobalSection
+EndGlobal

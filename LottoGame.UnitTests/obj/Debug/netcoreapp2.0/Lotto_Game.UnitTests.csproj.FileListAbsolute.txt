@@ -1,0 +1,17 @@
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.UnitTests.deps.json
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.UnitTests.runtimeconfig.json
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.UnitTests.runtimeconfig.dev.json
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.UnitTests.dll
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.UnitTests.pdb
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.dll
+C:\Working\LottoGame\LottoGame.UnitTests\bin\Debug\netcoreapp2.0\LottoGame.pdb
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.csprojAssemblyReference.cache
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.csproj.CoreCompileInputs.cache
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.AssemblyInfoInputs.cache
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.AssemblyInfo.cs
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.csproj.CopyComplete
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.dll
+C:\Working\LottoGame\LottoGame.UnitTests\obj\Debug\netcoreapp2.0\LottoGame.UnitTests.pdb

@@ -1,0 +1,1 @@
+# factory-lotto-game-system
